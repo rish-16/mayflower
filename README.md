@@ -1,5 +1,5 @@
 # mayflower 💐
-Search Tree-based user mimicry for webpage functionality and stress testing
+Search Tree-based user mimicry for webpage functionality checks and stress testing
 
 ## What is this?
 Hyperparameter Sweeps are often used to test different configuations of ML models to get the best-performing set of hyperparameters. To do this, there's a central sweep server that runs different agents in parallel (or serially) and logs their results and metrics over time.
